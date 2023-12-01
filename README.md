@@ -13,4 +13,4 @@ takethisbus@gmail.com
 
 # Skill Sets
 
-HTML, CSS, SASS, Javascript, Typescript, React, Next
+HTML, CSS, SCSS, Javascript, Typescript, React, Next
